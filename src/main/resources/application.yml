@@ -1,0 +1,10 @@
+micronaut:
+  application:
+    name: app
+
+jackson:
+  serialization:
+    useBigDecimalForFloats: true
+  deserialization:
+    useBigDecimalForFloats: true
+
